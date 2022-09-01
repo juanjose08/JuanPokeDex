@@ -1,0 +1,2 @@
+# JuanPokeDex
+Replication or Recreation 
